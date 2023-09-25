@@ -7,6 +7,7 @@ illustrated with a graphics frontend.
 # Other goals
 - learn CMake
 - use Lua
+- hot-reloading Lua changes (this feature along with a random player made finding and fixing AI bugs much faster)
 - use C++20 templates to interface with Lua
 - use wxwidgets to provide window/dc interface
 - have the computer play itself with each player having different strategies
