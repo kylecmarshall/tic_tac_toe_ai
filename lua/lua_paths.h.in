@@ -1,0 +1,9 @@
+namespace script {
+namespace paths {
+
+constexpr auto lua_dir = "@lua_dir_path@/";
+constexpr auto init_lua = "@lua_init_path@";
+constexpr auto render_lua = "@lua_render_path@";
+constexpr auto reset_lua = "@lua_reset_path@";
+}
+}
